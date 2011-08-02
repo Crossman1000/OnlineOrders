@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+<meta charset="utf-8">
+<title>Khmelnitskiy OnLine</title>
+
+<link rel="stylesheet" type="text/css" href="main_stylesheet.css"" />
+
+</head>
+<body>
+
+<div id="white_bg">
+    <nav>
+    	<div id="nav_main">&nbsp;  Home &nbsp;</div>
+    </nav>
+    
+    <div id="LogInOut">
+    	<a href="#">Log In </a>
+    </div>
+    <div id="registration">
+    	<a href="#">&nbsp;Registration</a>
+    </div>
+    
+    <div id="soc_network">
+    	<img id="facebook" src="images/icons/facebook.png" />
+    	<img id="vkontakte" src="images/icons/vkontakte.png" />
+    	<img id="twitter" src="images/icons/twitter.png" />
+    	<img id="google" src="images/icons/google.png" />
+    	<img id="youtube" src="images/icons/youtube.png" />
+    </div>
+    
+    <div id="logo">
+    	<h1>Online Orders</h1>
+    </div>
+    
+    <div id="presentation">
+    
+    </div>
+    
+    <div id="news">
+    	<div id="LastNews">
+        	<div id="newsTitle">
+            	<span style="margin-left: 10px;">Last News</span>
+            </div>
+        </div>
+        
+        <div id="RandNews">
+            <div id="newsTitle">
+            	<span style="margin-left: 10px;">Random News</span>
+            </div>
+        </div>    
+    </div>
+    
+</div>
+
+
+
+</body>
+</html>
+

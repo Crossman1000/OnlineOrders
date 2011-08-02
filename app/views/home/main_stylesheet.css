@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color: #f5f5f5;	
+}
+
+#white_bg
+{
+	 Width:600px;
+	 Height:500px;
+	 border-radius:10px; 
+	-webkit-border-radius:10px; 
+	-moz-border-radius:10px; 
+	-khtml-border-radius:10px;
+	background: #f5f5f5;
+	margin:0 auto;
+	margin-top: 0px;
+	border: solid 5px #8db0b8;
+	margin-top: 50px;
+}
+ 
+#white_bg #nav_main
+{
+	margin: -21px 0px 0px 10px;
+	float:left;
+	background-image: url(images/buttons/bg_tab.png);
+	color: #f5f5f5;
+	border-top: 1px #8db0b8 solid;
+	border-left: 1px #8db0b8 solid;
+	border-right: 1px #8db0b8 solid;
+	height: 20px;
+
+	
+	border-radius: 6px 6px 0 0;
+ 	-moz-border-radius: 6px 6px 0 0; 
+	-khtml-border-radius: 6px 6px 0 0;	
+}
+#white_bg nav
+{
+	margin-bottom: 0px;
+
+}
+#white_bg #registration a,
+#white_bg #LogInOut a
+{
+	margin: 8px 2px 0px 5px;
+	float: left;
+	display: inline-block;
+	color: #8db0b8;
+	font-size:14px;
+	font-weight:bold;
+}
+
+#white_bg #soc_network
+{
+	float:right;
+	margin: 5px 5px 0px 0px;
+}
+
+#white_bg #logo
+{
+	float:left;
+	height: 85px;
+	width: 100%;
+	color: #8db0b8;
+	text-align: center;
+	margin: 5px 0px 10px 0px;
+	background-image: url(images/logo_OnlineOrder.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#white_bg #presentation
+{
+	float:left;
+	background-color: #8db0b8;
+	height: 150px;
+	width: 100%;
+	margin-bottom: 10px;	
+}
+
+#white_bg #news
+{
+	float: left;
+	width: 100%;
+	background-color: inherit;
+}
+
+#white_bg #news #LastNews, #RandNews
+{
+	margin-left: 10px;
+	margin-right: 0px;
+	float: left;
+	background-image: url(images/NewsBG.png);
+	height: 180px;
+	width: 285px;
+	border-radius: 0 0  4px 4px ;
+ 	-moz-border-radius: 0 0 4px 4px ; 
+	-khtml-border-radius: 0 0 4px 4px;
+}
+
+#white_bg #news #newsTitle
+{
+	background-color: #8db0b8;
+	
+	height: 20px;
+	color: #f5f5f5;
+	
+	border-radius: 6px 6px 0 0;
+ 	-moz-border-radius: 6px 6px 0 0; 
+	-khtml-border-radius: 6px 6px 0 0;
+}
